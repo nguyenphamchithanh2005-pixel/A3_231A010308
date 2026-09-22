@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/dimens.xml – thang khoảng cách dùng chung, tránh số đo tùy tiện -->
+<resources>
+    <dimen name="space_sm">8dp</dimen>
+    <dimen name="space_md">12dp</dimen>
+    <dimen name="space_lg">20dp</dimen>
+    <dimen name="space_xl">32dp</dimen>
+    <dimen name="header_frame_height">196dp</dimen>
+    <dimen name="header_bg_height">150dp</dimen>
+    <dimen name="avatar_size">92dp</dimen>
+    <dimen name="text_title">24sp</dimen>
+</resources>
